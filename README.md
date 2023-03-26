@@ -1,3 +1,5 @@
+<img src="main_images\C++_Logo.png" width="72,88" height = "81,92">
+
 Welcome to C++ tutorial by Nick Vinesmoke
 ---
 In this tutorial, you'll upskill your knowledge of C++ from beginner to advanced. This tutorial will be useful such as for beginners as pros.
