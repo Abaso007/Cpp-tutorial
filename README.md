@@ -13,4 +13,11 @@ I'm Nick Vimesmoke and I have been learning C++ for 4 years. I explored sites su
 ### 🎫About this tutorial
 I made this tutorial using my knowledge and materials from web-sites such as [sololearn.com](https://www.sololearn.com/learn/courses/c-plus-plus-introduction), [MicrosoftDocs](https://github.com/MicrosoftDocs/cpp-docs), [learn.microsoft.com](https://learn.microsoft.com/en-us/cpp/?view=msvc-170), [devdocs.io](https://devdocs.io/cpp/)
 
+---
+### 🏆Good luck
+
+[learn here](Good luck)
+
+---
+
 
