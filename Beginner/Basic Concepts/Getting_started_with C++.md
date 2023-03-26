@@ -1,4 +1,4 @@
-# Welcome to C++!
+Welcome to C++!
 ---
 __C++__ is one of the most popular programming languages.
 It is used to build games, operating systems, browsers, and much more!
