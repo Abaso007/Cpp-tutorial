@@ -4,7 +4,6 @@ __C++__ is one of the most popular programming languages.
 It is used to build games, operating systems, browsers, and much more!
 The biggest advantage of C++ is its scalability and control over how it uses resources.
 
-
 > <font color="#AE8E00">In this course you will learn how to create real programs in C++, perform various operations, and much more!</font>
 
  ---
