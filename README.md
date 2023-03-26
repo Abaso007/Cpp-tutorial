@@ -16,7 +16,7 @@ I made this tutorial using my knowledge and materials from web-sites such as [so
 ---
 ### 🏆Good luck
 
-[learn here](Good luck)
+[learn here](https://github.com/Nick-Vinesmoke/Cpp-tutorial/wiki)
 
 ---
 
