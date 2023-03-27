@@ -1,4 +1,4 @@
-<img src="main_images\C++_Logo.png" width="72,88" height = "81,92">
+![logo](https://github.com/Nick-Vinesmoke/Cpp-tutorial/blob/main/main_images/logo.png?raw=true)
 
 Welcome to C++ tutorial by Nick Vinesmoke
 ---
